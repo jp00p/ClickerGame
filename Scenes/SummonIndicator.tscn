@@ -1,0 +1,12 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://Particles/circle_05.png" type="Texture" id=1]
+
+[node name="SummonIndicator" type="TextureRect"]
+margin_left = 54.0
+margin_right = 76.0
+margin_bottom = 22.0
+rect_min_size = Vector2( 22, 0 )
+texture = ExtResource( 1 )
+expand = true
+stretch_mode = 5
